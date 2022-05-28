@@ -6,3 +6,6 @@ short = pyshorteners.Shortener()
 short_link = short.tinyurl.short(link)
 
 print("New link : "+short_link)
+
+
+
